@@ -1,0 +1,76 @@
+/* Stile per il body */
+body {
+    background-color: #111;
+    color: #fff;
+}
+
+/* Stile per il contenitore principale */
+.container {
+    text-align: center;
+}
+
+/* Stile per il titolo */
+h1 {
+    font-size: 2.5rem;
+}
+
+/* Stile per il paragrafo */
+p {
+    font-size: 1.2rem;
+}
+
+/* Stile per le icone di navigazione */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Stile per i dropdown della navbar */
+.dropdown-menu {
+    background-color: #343a40;
+}
+
+/* Stile per gli item dei dropdown */
+.dropdown-item {
+    color: #fff;
+}
+
+/* Stile per il navbar brand */
+.navbar-brand {
+    font-size: 1.5rem;
+}
+/* Stile per lo slideshow */
+#slideshow {
+    margin-top: 20px;
+    margin-bottom: 20px; /* Margine sotto lo slideshow */
+}
+
+/* Stile per i controlli dello slideshow */
+.carousel-control-prev, .carousel-control-next {
+    width: auto;
+    color: #fff;
+}
+
+/* Stile per l'icona dei controlli dello slideshow */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Stile per le immagini nello slideshow */
+.carousel-item img {
+    height: auto;
+    max-width: 100%;
+    object-fit: cover; /* Mantieni le proporzioni e taglia le immagini per adattarle al contenitore */
+}
+/* Stile per la casella di testo per l'introduzione */
+.introduction-box {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px; /* Margine sotto la casella di testo */
+}
+/* Stile per il pulsante dello slideshow */
+.btn-primary {
+    background-color: #343a40;
+}
+
