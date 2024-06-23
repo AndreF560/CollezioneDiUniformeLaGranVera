@@ -151,6 +151,20 @@ h1 {
 .footer a:hover {
     color: #add8e6;
 }
+/*stile per scroll to top*/
+.button {
+    position: fixed; 
+    border: 10px; 
+    outline: none; 
+    background-color: #add8e6;
+    color: #fff;
+    padding: 15px; 
+    border-radius: 10px; 
+}
+
+.button:hover {
+  background-color: #343a40; /* Add a dark-grey background on hover */
+}
 /*Stile caselle social*/
 .fa {
   padding: 20px;
