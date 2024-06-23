@@ -153,6 +153,7 @@ h1 {
 }
 /*stile per scroll to top*/
 .btn-top {
+    position: fixed;
     margin: 10px;
     border: 10px; 
     outline: none; 
