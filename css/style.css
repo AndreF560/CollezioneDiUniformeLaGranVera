@@ -151,7 +151,7 @@ h1 {
 .footer a:hover {
     color: #add8e6;
 }
-/*stile per scroll to top*/
+/*stile per scroll to top
 .btn-top {
     margin: 10px;
     border: 10px; 
@@ -165,7 +165,7 @@ h1 {
 .btn-top:hover {
     background-color: #add8e6;
     border-color: #343a40;
-}
+}*/
 /*Stile caselle social*/
 .fa {
   padding: 20px;
