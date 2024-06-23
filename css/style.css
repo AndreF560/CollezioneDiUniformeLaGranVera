@@ -156,14 +156,15 @@ h1 {
     margin: 10px;
     border: 10px; 
     outline: none; 
-    background-color: #add8e6;
+    background-color: #343a40;
     color: #fff;
     padding: 15px; 
     border-radius: 10px; 
 }
 
 .btn-top:hover {
-  background-color: #343a40; /* Add a dark-grey background on hover */
+    background-color: #add8e6;
+    border-color: #343a40;
 }
 /*Stile caselle social*/
 .fa {
