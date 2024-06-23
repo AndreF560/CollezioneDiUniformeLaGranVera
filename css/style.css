@@ -152,7 +152,7 @@ h1 {
     color: #add8e6;
 }
 /*stile per scroll to top*/
-.button {
+#BottoneTop {
     margin: 10px;
     border: 10px; 
     outline: none; 
@@ -162,7 +162,7 @@ h1 {
     border-radius: 10px; 
 }
 
-.button:hover {
+#BottoneTop:hover {
   background-color: #343a40; /* Add a dark-grey background on hover */
 }
 /*Stile caselle social*/
