@@ -153,7 +153,6 @@ h1 {
 }
 /*stile per scroll to top*/
 .button {
-    position: fixed; 
     margin: 10px;
     border: 10px; 
     outline: none; 
