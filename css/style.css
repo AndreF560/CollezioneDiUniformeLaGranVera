@@ -165,6 +165,7 @@ h1 {
 .btn-top:hover {
     background-color: #fff;
     border-color: #343a40;
+    color: #343a40;
 }
 /*Stile caselle social*/
 .fa {
