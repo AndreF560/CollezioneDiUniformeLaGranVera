@@ -95,19 +95,17 @@ h1 {
     transition: background-color 0.3s ease;
     border-radius: 10px;
 }
-.uniform-box:hover, .uniform-box a:hover {
+.uniform-box:hover {
     background-color: #f0f0f0;
-    text-decoration: underline;
-    color: #343a40 ;
 }
 .uniform-box a {
     text-decoration: none;
     color: #fff;
 }
-/*.uniform-box a:hover {
+.uniform-box a:hover {
     text-decoration: underline;
     color: #343a40 ;
-}*/
+}
 /*stile per la casella di descrizione dell'uniforme */
 .col-md-6 ul, h2 {
     text-align: left;
