@@ -167,6 +167,10 @@ h1 {
     border-color: #343a40;
     color: #343a40;
 }
+
+.scroll-top {
+    margin: auto;
+}
 /*Stile caselle social*/
 .fa {
   padding: 20px;
