@@ -153,8 +153,6 @@ h1 {
 }
 /*stile per scroll to top*/
 .btn-top {
-    margin: 0 auto;
-    border: 10px; 
     outline: none; 
     background-color: #343a40;
     color: #fff;
@@ -166,6 +164,11 @@ h1 {
     background-color: #fff;
     border-color: #343a40;
     color: #343a40;
+}
+
+.scroll-top {
+    display: flex;
+    justify-content: center;
 }
 
 /*Stile caselle social*/
