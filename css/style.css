@@ -113,6 +113,10 @@ h1 {
     border-radius: 10px;
     padding: 20px;
 }
+/*stile per gli aside link*/
+.aside {
+    border-radius: 10px;
+}
 /*stile per i pulsanti con i file sotto le immagini e descrizioni*/
 .button-group {
     margin-top: 20px;
@@ -130,11 +134,7 @@ h1 {
     background-color: #808080;
     border-color: #fff;
 }
-/*stile per gli aside link*/
-.aside {
-    /*float: right;*/
-    border-radius: 10px;
-}
+
 /*Stile grafico*/
 .chart_div {
     box-align: center;
