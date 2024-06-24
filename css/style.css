@@ -130,7 +130,7 @@ h1 {
     border-color: #fff;
 }
 /*stile per gli aside link*/
-.aside {
+aside {
     float: right;
     border-radius: 10px;
 }
