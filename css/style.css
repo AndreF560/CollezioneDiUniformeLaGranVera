@@ -129,7 +129,11 @@ h1 {
     background-color: #808080;
     border-color: #fff;
 }
-
+/*stile per gli aside link*/
+.aside {
+    float: right;
+    border-radius: 10px;
+}
 /*Stile grafico*/
 .chart_div {
     box-align: center;
