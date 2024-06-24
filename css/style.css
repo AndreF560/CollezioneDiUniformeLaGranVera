@@ -86,6 +86,10 @@ h1 {
     border: 1px solid #fff;
     border-radius: 10px;
 }
+/*Stile per i titoli delle classificazioni nell'elenco*/
+h3 {
+    border-color: #343a40;
+}
 /*stile per i box dell'elenco delle uniformi */
  .uniform-box {
     background-color: #343a40;
